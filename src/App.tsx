@@ -224,7 +224,7 @@ export default function App() {
     <div className="min-h-screen bg-[#0b0c10] text-[#e9e9ee]">
       <main className="mx-auto max-w-xl px-4 pb-16 pt-10 text-center sm:px-6 sm:pb-24 sm:pt-16">
         <p className="text-xs font-semibold tracking-[0.25em] text-white/40">
-          MUSIC GUESSING GAME · TAYLOR SWIFT EDITION
+          TAYLOR SWIFT 
         </p>
         <p className="mt-3 text-sm text-white/60">
           Play 5 songs from Easy to Impossible. Guess each track and share your round score.
